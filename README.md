@@ -5,7 +5,7 @@
 - __NumPy:__ Efficient numerical computations and array handling.
 - __Plotly Express:__ Creating interactive and visually appealing data visualizations.
 - __Handling Data Files:__ Reading, writing, and processing various data file formats.
-- __Transforming Data:__ Cleaning, normalizing, and transforming data for analysis and machine learning.
+- __Transforming Data:__ Cleaning, normalizing, and transforming data for analysis.
 
 
 <br>`Course Resources`
