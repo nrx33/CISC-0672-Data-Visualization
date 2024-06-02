@@ -1,7 +1,7 @@
 # CISC-0672-Data-Visualization
 
 `Course Resources`
-* [Course Syllabus](https://github.com/) <br>
+* [Course Syllabus](https://github.com/nrx33/CISC-0672-Data-Visualization/tree/main/course_resources/syllabus_cisc_0672.pdf) <br>
 
 <br>`Homeworks`
 * [Assignment 1](https://github.com/nrx33/CISC-0672-Data-Visualization/blob/main/assignment_1/nazmul_assignment_1.ipynb) <br>
