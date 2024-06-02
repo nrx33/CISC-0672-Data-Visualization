@@ -1,4 +1,4 @@
-## CISC-0672-Data-Visualization
+### CISC-0672-Data-Visualization
 
 `Course Resources`
 * [Course Syllabus](https://github.com/nrx33/CISC-0672-Data-Visualization/tree/main/course_resources/syllabus_cisc_0672.pdf) <br>
