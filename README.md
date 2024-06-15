@@ -17,5 +17,5 @@
 * [Assignment 3](https://github.com/nrx33/CISC-0672-Data-Visualization/blob/main/assignment_3/nazmul_assignment_3.ipynb) 
 
 <br>`Final Project`
-* [Project Proposal](https://github.com/) <br>
-* [Final Project](https://github.com/) <br>
+* [Project Proposal](https://github.com/nrx33/CISC-0672-Data-Visualization/blob/main/final_project/nazmul_project_proposal.pdf) <br>
+* [Final Project](https://github.com/nrx33/CISC-0672-Data-Visualization/blob/main/final_project/nazmul_final_project.ipynb) <br>
